@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+archive.zip
+archive.zip.sha256
+package-checks.json
+public/
+owner-notes.md
+discord.md

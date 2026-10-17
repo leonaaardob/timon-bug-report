@@ -1,0 +1,4 @@
+interface:
+  display_name: "Timon Bug Report"
+  short_description: "Prepare sanitized Timon reports and Discord fields"
+  default_prompt: "Use $timon-bug-report to investigate this Timon issue read-only and prepare a sanitized archive.zip and English Discord form fields."
